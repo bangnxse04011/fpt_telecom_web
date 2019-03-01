@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-tongdai-fpt.com	TRUE	/	FALSE	1999999999	language	vi-vn
-tongdai-fpt.com	TRUE	/	FALSE	1999999999	OCSESSID	b77ef13cac6600693df5e3dcb1
-
