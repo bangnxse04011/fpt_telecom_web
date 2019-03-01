@@ -1,1 +1,1 @@
-<?php header( 'Location: /tongdai-fpt.com/index.html' ) ;  ?>
+<?php header( 'Location: /index.html' ) ;  ?>
